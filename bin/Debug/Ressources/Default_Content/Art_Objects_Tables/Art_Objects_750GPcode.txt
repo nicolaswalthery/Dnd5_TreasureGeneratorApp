@@ -1,0 +1,10 @@
+artObject750.AddLine("Silver chalice set with moonstones;",1);
+artObject750.AddLine("Silver-plated steel longsword with jet set in hilt;",1);
+artObject750.AddLine("Carved harp of exotic wood with ivory inlay and zircon gems;",1);
+artObject750.AddLine("Small gold idol;",1);
+artObject750.AddLine("Gold dragon comb set with red garnets as eyes;",1);
+artObject750.AddLine("Bottle stopper cork embossed with gold leaf and set with amethysts;",1);
+artObject750.AddLine("Ceremonial electrum dagger with a black pearl in the pommel;",1);
+artObject750.AddLine("Silver and gold brooch;",1);
+artObject750.AddLine("Obsidian statuette with gold fittings and inlay;",1);
+artObject750.AddLine("Painted gold war mask;",1);

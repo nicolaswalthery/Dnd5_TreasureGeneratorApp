@@ -1,0 +1,10 @@
+gemstones1000.AddLine("Black opal (translucent dark green with black mottling and golden flecks);",1);
+gemstones1000.AddLine("Blue sapphire (transparent blue-white to medium blue);",1);
+gemstones1000.AddLine("Emerald (transparent deep bright green);",1);
+gemstones1000.AddLine("Fire opal (translucent fiery red);",1);
+gemstones1000.AddLine("Opal (transl ucent pale blue with green and golden mottling);",1);
+gemstones1000.AddLine("Star ruby (translucent ruby with white star-shaped center);",1);
+gemstones1000.AddLine("Star sapphire (translucent blue sapphire with white star-shaped center);",1);
+gemstones1000.AddLine("Yellow sapphire (transparent fiery yellow or yellowgreen);",1);
+gemstones1000.AddLine("
+;",

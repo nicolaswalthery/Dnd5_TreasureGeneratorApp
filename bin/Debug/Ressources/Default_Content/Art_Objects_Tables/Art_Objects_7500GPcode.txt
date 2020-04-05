@@ -1,0 +1,8 @@
+artObject7500.AddLine("Jeweled gold crown;",1);
+artObject7500.AddLine("Jeweled platinum ring;",1);
+artObject7500.AddLine("Small gold statuette set with rubies;",1);
+artObject7500.AddLine("Gold cup set with emeralds;",1);
+artObject7500.AddLine("Gold jewelry box with platinum filigree;",1);
+artObject7500.AddLine("Painted gold child's sarcophagus;",1);
+artObject7500.AddLine("Jade game board with solid gold playing pieces;",1);
+artObject7500.AddLine("Bejeweled ivory drinking horn with gold fil igree;",1 );

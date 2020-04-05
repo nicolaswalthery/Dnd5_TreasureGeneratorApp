@@ -1,0 +1,4 @@
+gemstones5000.AddLine("Black sapphire (translucent lustrous black withglowing highlights);",1);
+gemstones5000.AddLine("Diamond (transparent bl ue-white, canary, pink, brown, or blue);",1);
+gemstones5000.AddLine("Jacinth (transparent fiery orange);",1);
+gemstones5000.AddLine("Ruby (transparent clear red to deep crimson);",1);

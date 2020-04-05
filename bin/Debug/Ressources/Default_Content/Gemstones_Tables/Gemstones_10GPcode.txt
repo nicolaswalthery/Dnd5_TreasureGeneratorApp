@@ -1,0 +1,12 @@
+gemstones10.AddLine("Azurite (opaque mottled deep blue);",1);
+gemstones10.AddLine("Banded agate (translucent striped brown, blue, white, or red);",1);
+gemstones10.AddLine("Blue quartz (transparent pale blue);",1);
+gemstones10.AddLine("Eye agate (transl ucent circles of gray, wh ite, brown,blue, or green);",1);
+gemstones10.AddLine("Hematite (opaque gray-black);",1);
+gemstones10.AddLine("Lapis lazuli (opaque light and dark blue with yellow flecks);",1);
+gemstones10.AddLine("Malachite (opaque striated light and dark green);",1);
+gemstones10.AddLine("Moss agate (translucent pink or yellow-white withmossy gray or green markings);",1);
+gemstones10.AddLine("Obsidian (opaque black);",1);
+gemstones10.AddLine("Rhodochrosite (opaque light pink);",1);
+gemstones10.AddLine("Tiger eye (translucent brown with golden center);",1);
+gemstones10.AddLine("Turquoise (opaque light blue-green);",1);

@@ -1,0 +1,12 @@
+artObject2500.AddLine("Fine gold chain set with a fire opal;",1);
+artObject2500.AddLine("Old masterpiece painting;",1);
+artObject2500.AddLine("Embroidered silk and velvet mantle set with numerous moonstones;",1);
+artObject2500.AddLine("Platinum bracelet set with a sapphire;",1);
+artObject2500.AddLine("Embroidered glove set with jewel chips;",1);
+artObject2500.AddLine("Jeweled anklet;",1);
+artObject2500.AddLine("Gold music box;",1);
+artObject2500.AddLine("Gold circlet set with four aquamarines;",1);
+artObject2500.AddLine("Eye patch with a mock eye set in blue sapphire and moonstone;",1);
+artObject2500.AddLine("A necklace string of small pink pearls;",1);
+artObject2500.AddLine("
+;",

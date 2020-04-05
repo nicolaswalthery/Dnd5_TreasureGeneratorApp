@@ -1,0 +1,6 @@
+gemstones500.AddLine("Alexandrite (transparent dark green);",1);
+gemstones500.AddLine("Aquamarine (transparent pale blue-green);",1);
+gemstones500.AddLine("Black pearl (opaque pure black);",1);
+gemstones500.AddLine("Blue spine! (transparent deep blue);",1);
+gemstones500.AddLine("Peridot (transparent rich ol ive green);",1);
+gemstones500.AddLine("Topaz (transparent golden yellow);",1);

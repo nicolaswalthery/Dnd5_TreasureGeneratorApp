@@ -1,0 +1,10 @@
+gemstones100.AddLine("Amber (transparent watery gold to rich gold);",1);
+gemstones100.AddLine("Amethyst (transparent deep purple);",1);
+gemstones100.AddLine("Chrysoberyl (transparent yel low-green to pale green);",1);
+gemstones100.AddLine("Coral (opaque crimson);",1);
+gemstones100.AddLine("Garnet (transparent red, brown-green, or violet);",1);
+gemstones100.AddLine("jade (translucent light green, deep green, or white);",1);
+gemstones100.AddLine("jet (opaque deep black);",1);
+gemstones100.AddLine("Pearl (opaque lustrous white, yellow, or pink);",1);
+gemstones100.AddLine("Spinel (transparent red, red-brown, or deep green);",1);
+gemstones100.AddLine("Tourmaline (transparent pale green, blue, brown, or red);",1);

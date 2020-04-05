@@ -1,0 +1,10 @@
+artObject250.AddLine("Gold ring set with bloodstones;",1);
+artObject250.AddLine("Carved ivory statuette;",1);
+artObject250.AddLine("Large gold bracelet;",1);
+artObject250.AddLine("Silver necklace with a gemstone pendant;",1);
+artObject250.AddLine("Bronze crown;",1);
+artObject250.AddLine("Silk robe with gold embroidery;",1);
+artObject250.AddLine("Large well-made tapestry;",1);
+artObject250.AddLine("Brass mug with jade in lay;",1);
+artObject250.AddLine("Box of turquoise animal figurines;",1);
+artObject250.AddLine("Gold bird cage with electrum filigree;",1);

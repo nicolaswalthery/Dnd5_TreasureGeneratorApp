@@ -1,0 +1,15 @@
+gemstones50.AddLine("Bloodstone (opaque dark gray with red flecks);",1);
+gemstones50.AddLine("Carnelian (opaque orange to red-brown);",1);
+gemstones50.AddLine("Chalcedony (opaque white);",1);
+gemstones50.AddLine("Chrysoprase (translucent green);",1);
+gemstones50.AddLine("Citrine (transparent pale yellow-brown);",1);
+gemstones50.AddLine("jasper (opaque blue, black, or brown);",1);
+gemstones50.AddLine("Moonstone (translucent white with pale blue glow);",1);
+gemstones50.AddLine("Onyx (opaque bands of black and white, or pure back or white);",1);
+gemstones50.AddLine("Quartz (transparent white, smoky gray, or yellow);",1);
+gemstones50.AddLine("Sardonyx (opaque bands of red and white);",1);
+gemstones50.AddLine("Star rose quartz (translucent rosy stone with white;",1);
+gemstones50.AddLine("star-shaped center);",1);
+gemstones50.AddLine("Zircon (transparent pale bl ue-green);",1);
+gemstones50.AddLine("
+;",
